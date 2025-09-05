@@ -1,0 +1,51 @@
+user_id,username,country,subscription_type
+1,user_1,USA,Premium
+2,user_2,South Korea,Premium
+3,user_3,India,Free
+4,user_4,USA,Premium
+5,user_5,South Korea,Free
+6,user_6,USA,Premium
+7,user_7,USA,Free
+8,user_8,USA,Free
+9,user_9,India,Free
+10,user_10,Germany,Premium
+11,user_11,South Korea,Premium
+12,user_12,UK,Premium
+13,user_13,USA,Family
+14,user_14,UK,Family
+15,user_15,UK,Family
+16,user_16,USA,Premium
+17,user_17,Canada,Family
+18,user_18,Japan,Family
+19,user_19,India,Free
+20,user_20,South Korea,Premium
+21,user_21,UK,Free
+22,user_22,India,Premium
+23,user_23,South Korea,Free
+24,user_24,UK,Premium
+25,user_25,Germany,Free
+26,user_26,USA,Free
+27,user_27,Germany,Family
+28,user_28,Japan,Free
+29,user_29,USA,Premium
+30,user_30,USA,Free
+31,user_31,India,Family
+32,user_32,Germany,Free
+33,user_33,India,Free
+34,user_34,USA,Family
+35,user_35,South Korea,Family
+36,user_36,Canada,Premium
+37,user_37,Canada,Free
+38,user_38,UK,Family
+39,user_39,USA,Premium
+40,user_40,Canada,Family
+41,user_41,Germany,Family
+42,user_42,Germany,Premium
+43,user_43,Germany,Free
+44,user_44,UK,Family
+45,user_45,South Korea,Free
+46,user_46,South Korea,Premium
+47,user_47,India,Premium
+48,user_48,India,Free
+49,user_49,USA,Family
+50,user_50,Canada,Premium
